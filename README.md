@@ -23,4 +23,4 @@
 6. Ask for membership, and offer discount if the user own a membership
 7. User receive a receipt for their order.  
 
-![diagram](photo/BurgerFinal.png)
+![diagram](photo/BurgerShopDiagram.png)
